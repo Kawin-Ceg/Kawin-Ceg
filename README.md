@@ -1,6 +1,6 @@
 🚀 About Me
 Hey, I'm Kawin A.N.,
-💻 B.Tech IT student @ CEG, Anna University
+💻 B.Tech IT student @ CEG, Anna  University
 🌱 Currently diving deep into AI/ML, Web Development, and DSA
 🎯 Goal: Crack off-campus placements and build products that make life better
 ⚡ Passionate about solving real-world problems with code
