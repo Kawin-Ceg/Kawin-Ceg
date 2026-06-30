@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kawin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
@@ -178,7 +179,6 @@ Leading coordination for flagship technical events under the ACM chapter.
 |---|---|
 | NPTEL Data Mining — Elite Certificate | Scored 91%, ranked in Top 5% among ~2,769 candidates |
 | Academic Excellence | Maintaining 9.37 CGPA in B.Tech Information Technology, CEG |
-| Resume Percentile | Ranked Top 5–8% within CEG's placement pool |
 
 </div>
 
@@ -186,25 +186,14 @@ Leading coordination for flagship technical events under the ACM chapter.
 
 <h2 align="center">⟡ Certifications</h2>
 
-<p align="center"><b>AWS</b></p>
+<p align="center"><b>Coursera</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/AWS-Certification-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
-
-<p align="center"><b>Oracle</b></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Oracle-Certification-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Coursera-IBM%20Data%20Science%20Professional%20Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
 </p>
 
 <p align="center"><b>NPTEL</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/NPTEL-Data%20Mining%20Elite%20(91%25)-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
-</p>
-
-<p align="center"><b>Cisco</b></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco-Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
@@ -301,3 +290,4 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
+```
