@@ -1,45 +1,297 @@
+<div align="center">
 
-Hey 👋, I'm **Kawin A.N.**  
-💻 **B.Tech Information Technology** student @ **CEG, Anna University**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kawin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-I’m a curious builder who loves turning ideas into working systems.  
-Currently focused on strengthening my foundations while building real, meaningful projects.
+<a href="https://github.com/Kawin-2007">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+%26+Product+Engineering+Mindset;Building+PlayWise+%7C+FinMate+%7C+NyayaNet;Targeting+MAANG+%2F+FinTech+Engineering+Roles&font=Fira+Code&center=true&width=700&height=50&color=A78BFA&vCenter=true&size=24&pause=1500"/>
+</a>
 
-🌱 Exploring **AI/ML, Web Development, and DSA**
-🎯 Goal: **Crack off-campus placements** & build products that actually help people
-⚡ Passionate about **problem-solving with code** and learning how systems work internally
+<br/>
 
+![Academic](https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-9.37%2F10-7C3AED?style=flat-square&logo=bookstack&logoColor=white)
+![College](https://img.shields.io/badge/College%20of%20Engineering-Guindy%2C%20Anna%20University-8B5CF6?style=flat-square&logo=academia&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Chennai%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
+<br/>
 
-## 🔧 Tech Stack
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Kawin-2007"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-### 💡 Programming Languages
-- C, C++, Python, JavaScript
+<br/><br/>
 
-### 🌐 Web Development
-- HTML, CSS, JavaScript  
-- React, Node.js
+![Profile Views](https://komarev.com/ghpvc/?username=Kawin-2007&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Kawin-2007?style=flat-square&color=7C3AED&labelColor=1a1a2e&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Kawin-2007?style=flat-square&color=6D28D9&labelColor=1a1a2e&label=STARS)
 
-### 🤖 AI / ML
-- NumPy, Pandas, Scikit-learn *(beginner → improving daily)*
-
-### 🧠 Computer Science Fundamentals
-- Data Structures & Algorithms  
-- System Design *(learning phase)*
-
-### 🔍 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Figma, Canva  
+</div>
 
 ---
 
-## 💬 Let’s Connect
+## 🟣 About Me
 
-I love collaborating, learning from others, and building things together 🚀  
+I'm **Kawin**, a B.Tech Information Technology undergraduate at **College of Engineering, Guindy (CEG), Anna University**, maintaining a **9.37 CGPA**. I engineer end-to-end software systems — from ML-driven backends to production-grade full stack applications — with a strong focus on **AI/ML integration, system design, and measurable product impact**.
 
-📬 **Email:** kawin111230@gmail.com  
+My recent work spans building a gaming wellness intelligence platform with a custom-trained burnout classifier and explainability layer, a fintech application with statistical anomaly detection and a RAG-powered financial assistant, and a legal-tech platform built collaboratively with a six-member team. I approach engineering with a **product mindset** — prioritizing real-world usability, security, and scalability over isolated feature-building.
 
-If you’re interested in tech, projects, or just learning together — feel free to reach out!
+```yaml
+Open To:
+  - Software Engineering Internships (Product / Backend / Full Stack)
+  - AI/ML Engineering Roles
+  - FinTech Engineering Opportunities
+  - Open Source Collaboration
+```
 
+---
 
+## 🟣 Tech Stack
+
+**Languages**
+<p> <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&theme=dark"/> </p>
+
+**Frontend**
+<p> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/> </p>
+
+**Backend & Databases**
+<p> <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,sqlite&theme=dark"/> </p>
+
+**Cloud, DevOps & Tooling**
+<p> <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman&theme=dark"/> </p>
+
+---
+
+## 🟣 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Classification Models | ⭐⭐⭐⭐ | XGBoost-based burnout classifier achieving 0.9963 ROC-AUC |
+| Model Explainability | ⭐⭐⭐⭐ | SHAP-based interpretability layer for classifier decisions |
+| NLP / Text Classification | ⭐⭐⭐ | TF-IDF + XGBoost pipeline for transaction categorization |
+| RAG Systems | ⭐⭐⭐⭐ | SQL-retrieval Retrieval-Augmented Generation with Gemini 2.5 Flash |
+| LLM Integration | ⭐⭐⭐⭐ | Streaming AI assistants using Server-Sent Events (SSE) |
+| Statistical Anomaly Detection | ⭐⭐⭐⭐ | Multi-detector rule engine (Z-score, IQR, CV, baseline deviation) |
+
+</div>
+
+---
+
+## 🟣 Featured Projects
+
+<details>
+<summary><b>🎮 PlayWise 2.0 — Gaming Wellness & Habit Intelligence Platform</b></summary>
+<br/>
+
+A full-stack platform that tracks gaming behavior and predicts burnout risk using a trained ML classifier, paired with an AI assistant and browser-based auto-tracking.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | FastAPI, PostgreSQL, XGBoost, SHAP, React, Chrome Extension (MV3) |
+| **Scale** | Auto-tracking across 45+ gaming platforms via browser extension |
+| **Performance** | Burnout classifier achieving 0.9963 ROC-AUC |
+| **Security** | JWT-based authentication, structured API access control |
+| **Impact** | Real-time wellness insights via WISE AI conversational assistant |
+| **Repository** | [View Repository](#) |
+
+Built across six development phases, PlayWise 2.0 combines a production FastAPI/PostgreSQL backend, a high-precision burnout classifier with SHAP-based explainability, an SSE-streamed conversational AI (WISE) using SQL-retrieval RAG over Gemini 2.5 Flash, and a Manifest V3 Chrome Extension for automatic gameplay tracking.
+
+</details>
+
+<details>
+<summary><b>💰 FinMate — AI-Powered Personal Finance Platform</b></summary>
+<br/>
+
+An intelligent personal finance application combining ML-driven categorization, statistical anomaly detection, and a conversational financial assistant.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | React, FastAPI, SQLAlchemy, PostgreSQL, JWT + OTP Auth |
+| **Scale** | Multi-module system: budgeting, forecasting, health scoring, anomaly detection |
+| **Performance** | TF-IDF + XGBoost categorization pipeline |
+| **Security** | JWT authentication with OTP-based verification |
+| **Impact** | "MATE" AI assistant powered by Gemini 2.5 Flash with SQL-retrieval RAG |
+| **Repository** | [View Repository](#) |
+
+FinMate integrates ML-based transaction categorization, a 5-detector statistical anomaly detection engine (Z-score, IQR, coefficient of variation, historical baseline), automated budgeting and forecasting, and an AI chat assistant capable of querying user financial data via SQL-retrieval RAG.
+
+</details>
+
+<details>
+<summary><b>⚖️ NyayaNet — Collaborative Legal-Tech Platform</b></summary>
+<br/>
+
+A team-built legal assistance platform delivering authentication, dashboards, legal notes, and an AI-powered legal chat interface.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | React, FastAPI, Gemini 2.5 Flash |
+| **Scale** | Built collaboratively across a 6-member engineering team |
+| **Performance** | Real-time AI-driven legal chat interface |
+| **Security** | Dedicated authentication module ownership |
+| **Impact** | Centralized legal notes and dashboard for end users |
+| **Repository** | [View Repository](#) |
+
+As part of a 6-member team, I owned authentication, the dashboard module, legal notes functionality, and the full chat interface (frontend + backend), including Gemini 2.5 Flash integration for AI-assisted legal interactions.
+
+</details>
+
+---
+
+## 🟣 Experience
+
+**Software Development Intern — Anna Oasis**
+`Active Contribution`
+
+Contributing to a live Android application on the Google Play Store, serving students and wardens at Anna University.
+
+- Developing and maintaining features for a production mobile application
+- Collaborating on real-world deployment serving an active user base
+- Working within an existing production codebase and release cycle
+
+`Android` `Production Deployment` `Mobile Development`
+
+<br/>
+
+**Senior Coordinator — ACM Student Chapter, CEG**
+`Ongoing`
+
+Leading coordination for flagship technical events under the ACM chapter.
+
+- Coordinating event execution for **Prodigy**, **CodeX**, and **CodHer**
+- Managing cross-functional teams for large-scale technical events
+- Driving end-to-end planning and stakeholder communication
+
+`Leadership` `Event Engineering` `Technical Coordination`
+
+---
+
+## 🟣 Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| NPTEL Data Mining — Elite Certificate | Scored 91%, ranked in Top 5% among ~2,769 candidates |
+| Academic Excellence | Maintaining 9.37 CGPA in B.Tech Information Technology, CEG |
+| Resume Percentile | Ranked Top 5–8% within CEG's placement pool |
+
+</div>
+
+---
+
+## 🟣 Certifications
+
+**AWS**
+<br/>
+![AWS](https://img.shields.io/badge/AWS-Certification-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+**Oracle**
+<br/>
+![Oracle](https://img.shields.io/badge/Oracle-Certification-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**NPTEL**
+<br/>
+![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Mining%20Elite%20(91%25)-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+**Cisco**
+<br/>
+![Cisco](https://img.shields.io/badge/Cisco-Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+---
+
+## 🟣 Coding Profiles
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-411%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+
+---
+
+## 🟣 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kawin-2007&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Kawin-2007&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawin-2007&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="48%"/>
+
+</div>
+
+---
+
+## 🟣 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Kawin-2007&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+</div>
+
+---
+
+## 🟣 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kawin-2007&theme=react-dark&hide_border=true&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9" width="95%"/>
+</div>
+
+---
+
+## 🟣 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Kawin-2007/Kawin-2007/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
+
+---
+
+## 🟣 Current Focus
+
+```yaml
+Learning:
+  - Advanced Distributed Systems & Scalable Architecture
+  - Deep Learning Architectures Beyond Classical ML
+  - System Design for High-Traffic Backends
+
+Building:
+  - Deploying PlayWise 2.0 (Render, Supabase, Vercel, Chrome Web Store)
+  - Strengthening FinMate's production infrastructure
+
+Exploring:
+  - Large-Scale Distributed Model Training
+  - Production-Grade MLOps Pipelines
+
+Open To:
+  - Software Engineering Internships
+  - AI/ML Engineering Roles
+  - FinTech & Product Engineering Opportunities
+```
+
+---
+
+## 🟣 Connect
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Kawin-2007"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+*"Engineering systems that think, scale, and matter."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
