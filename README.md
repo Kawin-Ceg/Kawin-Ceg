@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kawin&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://github.com/Kawin-2007">
+<a href="https://github.com/Kawin-Ceg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+%7C+AI%2FML+Engineer;Full+Stack+%26+Product+Engineering+Mindset;Building+PlayWise+%7C+FinMate+%7C+NyayaNet;Targeting+MAANG+%2F+FinTech+Engineering+Roles&font=Fira+Code&center=true&width=700&height=50&color=A78BFA&vCenter=true&size=24&pause=1500"/>
 </a>
 
@@ -16,21 +16,23 @@
 <br/>
 
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kawin-an/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Kawin-2007"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Kawin-Ceg"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kawin-2007&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Kawin-2007?style=flat-square&color=7C3AED&labelColor=1a1a2e&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Kawin-2007?style=flat-square&color=6D28D9&labelColor=1a1a2e&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Kawin-Ceg&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Kawin-Ceg?style=flat-square&color=7C3AED&labelColor=1a1a2e&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Kawin-Ceg?style=flat-square&color=6D28D9&labelColor=1a1a2e&label=STARS)
 
 </div>
 
----
+<br/>
 
-## 🟣 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
+
+<h2 align="center">⟡ About Me</h2>
 
 I'm **Kawin**, a B.Tech Information Technology undergraduate at **College of Engineering, Guindy (CEG), Anna University**, maintaining a **9.37 CGPA**. I engineer end-to-end software systems — from ML-driven backends to production-grade full stack applications — with a strong focus on **AI/ML integration, system design, and measurable product impact**.
 
@@ -44,25 +46,25 @@ Open To:
   - Open Source Collaboration
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 Tech Stack
+<h2 align="center">⟡ Tech Stack</h2>
 
-**Languages**
-<p> <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&theme=dark"/> </p>
+<p align="center"><b>Languages</b></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts&theme=dark"/> </p>
 
-**Frontend**
-<p> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/> </p>
+<p align="center"><b>Frontend</b></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/> </p>
 
-**Backend & Databases**
-<p> <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,sqlite&theme=dark"/> </p>
+<p align="center"><b>Backend & Databases</b></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,sqlite&theme=dark"/> </p>
 
-**Cloud, DevOps & Tooling**
-<p> <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman&theme=dark"/> </p>
+<p align="center"><b>Cloud, DevOps & Tooling</b></p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,postman&theme=dark"/> </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 AI / ML Expertise
+<h2 align="center">⟡ AI / ML Expertise</h2>
 
 <div align="center">
 
@@ -77,9 +79,9 @@ Open To:
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 Featured Projects
+<h2 align="center">⟡ Featured Projects</h2>
 
 <details>
 <summary><b>🎮 PlayWise 2.0 — Gaming Wellness & Habit Intelligence Platform</b></summary>
@@ -138,9 +140,9 @@ As part of a 6-member team, I owned authentication, the dashboard module, legal 
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 Experience
+<h2 align="center">⟡ Experience</h2>
 
 **Software Development Intern — Anna Oasis**
 `Active Contribution`
@@ -166,9 +168,9 @@ Leading coordination for flagship technical events under the ACM chapter.
 
 `Leadership` `Event Engineering` `Technical Coordination`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 Achievements
+<h2 align="center">⟡ Achievements</h2>
 
 <div align="center">
 
@@ -180,80 +182,84 @@ Leading coordination for flagship technical events under the ACM chapter.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 Certifications
+<h2 align="center">⟡ Certifications</h2>
 
-**AWS**
-<br/>
-![AWS](https://img.shields.io/badge/AWS-Certification-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+<p align="center"><b>AWS</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-Certification-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
 
-**Oracle**
-<br/>
-![Oracle](https://img.shields.io/badge/Oracle-Certification-F80000?style=flat-square&logo=oracle&logoColor=white)
+<p align="center"><b>Oracle</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle-Certification-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+</p>
 
-**NPTEL**
-<br/>
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Mining%20Elite%20(91%25)-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-052FAD?style=flat-square&logo=ibm&logoColor=white)
+<p align="center"><b>NPTEL</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/NPTEL-Data%20Mining%20Elite%20(91%25)-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+</p>
 
-**Cisco**
-<br/>
-![Cisco](https://img.shields.io/badge/Cisco-Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+<p align="center"><b>Cisco</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Cisco-Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 Coding Profiles
+<h2 align="center">⟡ Coding Profiles</h2>
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-411%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/Kawin_code_catalyst/"><img src="https://img.shields.io/badge/LeetCode-411%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 GitHub Analytics
+<h2 align="center">⟡ GitHub Analytics</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kawin-2007&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=Kawin-2007&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kawin-Ceg&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Kawin-Ceg&theme=transparent&hide_border=true&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B5CF6" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawin-2007&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawin-Ceg&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C4B5FD&langs_count=8" width="48%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 GitHub Trophies
+<h2 align="center">⟡ GitHub Trophies</h2>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Kawin-2007&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Kawin-Ceg&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 Contribution Activity
+<h2 align="center">⟡ Contribution Activity</h2>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kawin-2007&theme=react-dark&hide_border=true&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kawin-Ceg&theme=react-dark&hide_border=true&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&area_color=6D28D9" width="95%"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 Contribution Snake
+<h2 align="center">⟡ Contribution Snake</h2>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Kawin-2007/Kawin-2007/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+<img src="https://raw.githubusercontent.com/Kawin-Ceg/Kawin-Ceg/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 Current Focus
+<h2 align="center">⟡ Current Focus</h2>
 
 ```yaml
 Learning:
@@ -275,18 +281,18 @@ Open To:
   - FinTech & Product Engineering Opportunities
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&width=1000" width="100%"/>
 
-## 🟣 Connect
+<h2 align="center">⟡ Connect</h2>
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Kawin-2007"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kawin-an/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Kawin-Ceg"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
+<br/>
 
 <div align="center">
 
